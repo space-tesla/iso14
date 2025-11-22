@@ -47,10 +47,18 @@ app.listen(3000, () => {
 });
 
 
+
+
+
+// REQUIRED SETUP (Run these once if not already done):
+// npm init -y
+// npm install express
+// npm install
+
 // HOW TO RUN THIS APPLICATION:
 // Step 1: Open terminal inside this folder
 // Step 2: Run → node app.js
-
+// Open New Terminal and go to file using cd filename 
 // TEST USING TERMINAL (curl):
 
 // 1) Add Employee:
